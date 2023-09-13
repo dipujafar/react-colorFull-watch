@@ -21,7 +21,7 @@ function App() {
       <h1>Let's see the colorful time!</h1>
       <p>Pick a Color :{" "}
         <select style={{padding: "7px"}} value={color} onChange={handleColor}>
-          <option value={color}>Select Color</option>
+          <option value={color}>Black</option>
           <option value="red">Red</option>
           <option value="yellow">Yellow</option>
           <option value="green">Green</option>
